@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Ayda!
+### 👋 Hi there, I'm Ayda shekari!
 
 I am an aspiring **Data Analyst / SQL Developer** passionate about database design, data cleaning, and extracting business insights using SQL Server and T-SQL.
 
